@@ -1,5 +1,7 @@
 *.pkl
 
+*.zip
+
 venv/
 env/
 
